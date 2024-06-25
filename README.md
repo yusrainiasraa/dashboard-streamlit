@@ -14,6 +14,6 @@ streamlit run dashboard.py
 
 ## Streamlit Demo
 
+https://github.com/yusrainiasraa/submission/assets/65879279/5dfc708e-9bf2-4225-9cca-6ffa49c1dec5
 
-https://github.com/yusrainiasraa/submission/assets/65879279/62588712-299d-4fd3-8c7c-00537cb027fa
 
