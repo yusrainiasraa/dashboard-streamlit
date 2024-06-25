@@ -7,7 +7,13 @@ conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 
-## Run steamlit app
+## Run streamlit app
 ```
 streamlit run dashboard.py
 ```
+
+## Streamlit Demo
+
+
+https://github.com/yusrainiasraa/submission/assets/65879279/62588712-299d-4fd3-8c7c-00537cb027fa
+
